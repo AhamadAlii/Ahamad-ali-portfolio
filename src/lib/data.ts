@@ -65,6 +65,7 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       { name: "MongoDB", level: 85 },
       { name: "MySQL", level: 82 },
+      { name: "PostgreSQL", level: 83},
     ],
   },
   {
